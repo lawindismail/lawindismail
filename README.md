@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lawindismail
-- 📖 Student at RMIT Univeristy, alumni of 2025.
+- 👋 Hi, I’m Lawind
+- 📖 Student at RMIT Univeristy, graduating 2025.
 - 🌱 I’m currently studying a BEng in (Advanced Manufacturing & Mechatronics) (Honours)
 - 📫 How to reach me: lawind.ismail@gmail.com
